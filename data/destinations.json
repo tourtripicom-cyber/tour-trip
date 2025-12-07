@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Sigiriya Rock Fortress",
+    "imageUrl": "https://images.unsplash.com/photo-1582772344327-142417216a4e?q=80&w=1974&auto=format&fit=crop",
+    "description": "Climb the ancient Lion Rock to witness breathtaking frescoes and panoramic views."
+  },
+  {
+    "id": 2,
+    "name": "Ella & Nine Arch Bridge",
+    "imageUrl": "https://images.unsplash.com/photo-1595825319881-2831f4a97475?q=80&w=1974&auto=format&fit=crop",
+    "description": "Experience the scenic train ride and marvel at the architectural wonder of the Nine Arch Bridge."
+  },
+  {
+    "id": 3,
+    "name": "Galle Dutch Fort",
+    "imageUrl": "https://images.unsplash.com/photo-1619426946022-887403a435a2?q=80&w=1965&auto=format&fit=crop",
+    "description": "Walk through history in this UNESCO World Heritage Site with charming cobblestone streets."
+  },
+  {
+    "id": 4,
+    "name": "Kandy & Temple of the Tooth",
+    "imageUrl": "https://images.unsplash.com/photo-1560019234-71f02aa56f6f?q=80&w=1974&auto=format&fit=crop",
+    "description": "Visit the cultural heart of Sri Lanka and the sacred temple that houses a relic of the Buddha."
+  },
+  {
+    "id": 5,
+    "name": "Yala National Park",
+    "imageUrl": "https://images.unsplash.com/photo-1580221374567-33425946ab13?q=80&w=1974&auto=format&fit=crop",
+    "description": "Embark on a thrilling safari to spot leopards, elephants, and a rich variety of birdlife."
+  },
+  {
+    "id": 6,
+    "name": "Mirissa & Whale Watching",
+    "imageUrl": "https://images.unsplash.com/photo-1591523170068-0056a053c391?q=80&w=1964&auto=format&fit=crop",
+    "description": "Relax on golden sands and set sail to witness the majestic blue whales in their natural habitat."
+  },
+  {
+    "id": 7,
+    "name": "Nuwara Eliya",
+    "imageUrl": "https://images.unsplash.com/photo-1561722691-1b0a816708d7?q=80&w=1974&auto=format&fit=crop",
+    "description": "Explore the rolling hills of Sri Lanka's tea country, often referred to as 'Little England'."
+  },
+  {
+    "id": 8,
+    "name": "Ancient City of Anuradhapura",
+    "imageUrl": "https://images.unsplash.com/photo-1622324181988-8d485ac60a4c?q=80&w=1964&auto=format&fit=crop",
+    "description": "Discover the sprawling complex of dagobas, monasteries, and ancient ruins."
+  },
+  {
+    "id": 9,
+    "name": "Ancient City of Polonnaruwa",
+    "imageUrl": "https://images.unsplash.com/photo-1627889083042-9964b383c500?q=80&w=1974&auto=format&fit=crop",
+    "description": "Step back in time at the second ancient capital of Sri Lanka, a marvel of historical architecture."
+  },
+  {
+    "id": 10,
+    "name": "Arugam Bay",
+    "imageUrl": "https://images.unsplash.com/photo-1622324181940-a33948529202?q=80&w=1964&auto=format&fit=crop",
+    "description": "A world-renowned surfing hotspot with a laid-back vibe and beautiful beaches."
+  }
+]
