@@ -1,0 +1,5 @@
+{
+  "name": "Coco Tours",
+  "description": "A modern web application showcasing a travel company's vehicle fleet with rates per KM and available custom tour packages. Includes an AI-powered custom trip planner.",
+  "requestFramePermissions": []
+}
